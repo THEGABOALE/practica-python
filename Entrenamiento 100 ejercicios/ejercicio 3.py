@@ -1,0 +1,1 @@
+'''Concatena dos cadenas de texto'''
